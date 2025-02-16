@@ -22,4 +22,3 @@ Geared towards learning to:
 - Use unsupervised learning techniques for unsupervised learning: including clustering & anomaly detection
 - Build recommender systems with a collaborative filtering approach & a content-based deep learning method
 - Build a deep reinforcement learning model
-
